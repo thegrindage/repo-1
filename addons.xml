@@ -14,7 +14,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="repository.firetv" name="FireTvGuru Repo" version="1.0.1" provider-name="FTG">
+<addon id="repository.firetv" name="[COLOR ghostwhite][B]FireTv Repo[/B][/COLOR]" version="1.0.1" provider-name="FTG">
   <requires>
     <import addon="xbmc.addon" version="12.0.0" />
   </requires>
