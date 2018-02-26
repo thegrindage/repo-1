@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.firetv" name="[COLOR ghostwhite][B]FTG[/B][/COLOR][COLOR blue][B]Wizard[/B][/COLOR]" version="1.0.1" provider-name="F.T.G.">
+<addon id="plugin.program.firetv" name="[COLOR ghostwhite][B]FTG[/B][/COLOR][COLOR blue][B]Wizard[/B][/COLOR]" version="1.0.2" provider-name="F.T.G.">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
